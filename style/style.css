@@ -11,7 +11,7 @@
 }
 
 .cabecalho {
-    background-color: #39537e;
+    background-color: #0742a2;
     color:var(--branco);
     display: flex;
     justify-content: space-around;
@@ -36,7 +36,7 @@
 }
 
 .agro{
-    background-image: linear-gradient(#3b5a6e,#1c845c);
+    background-image: linear-gradient(#304452,#255a45);
     color:var(--branco);
     display: flex;
     justify-content: center;
@@ -53,7 +53,7 @@
     padding: 24px 0;
 }
 .contato{
-  background-image: linear-gradient(#1c784d,#357951);
+  background-image: linear-gradient(#31ad73,#059e45);
     color:var(--branco);
     display: flex;
     justify-content: center;
